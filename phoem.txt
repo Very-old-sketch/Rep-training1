@@ -2,3 +2,8 @@ Roses are red
 Violets are blue
 Sun is all up 
 And so are you.
+
+Roses are red
+Violets are blue
+Day goes to sleep
+And so are you.
